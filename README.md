@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Privado is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by insight-partners) and added to the network as a stub for full-pipeline profiling.
-- https://privadovpn.com/
+PrivadoVPN offers a comprehensive online security suite combining high‑speed VPN services with antivirus, ad‑blocking, parental controls, smart DNS, and email relay. Built on AES‑256 encryption and a strict no‑log policy, it provides unlimited device connections, SOCKS5 proxy, kill‑switch, and multi‑platform apps for Windows, macOS, Android, iOS, and popular browsers. The service targets privacy‑focused consumers and businesses seeking robust protection against tracking, malware, and data leaks.
+
+**Areas:** VPN · Security · Privacy · Antivirus · Ad‑Blocking
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://privadovpn.com/)
+- [Getting started](https://support.privadovpn.com/kb/article/840-2wire-router-setup-for-smart-dns-proxy/)
+- [Pricing](https://privadovpn.com/pricing/)
+- [Support](https://support.privadovpn.com/)
+- [Blog](https://blog.privadovpn.com)
+- [Terms of service](https://privadovpn.com/terms-of-service/)
+- [Privacy policy](https://privadovpn.com/privacy-policy/)
+- [GitHub](https://github.com/privadovpn)
+- [Status](https://status.privadovpn.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/privadovpn-com/](https://apis.io/providers/privadovpn-com/).
